@@ -28,6 +28,10 @@
 # 2.Check User Password
 # 
   Aici putem verifica daca parola introdusa este una existenta sau daca mai este valida.
+  Avem o functie care verifica daca id-ul introdus este unu existent iar daca da verifica 
+  parola user-ului din baza de date cu cea primita ca data de intrare.
+  Mai avem o alta functie care verifica daca parola generata mai este valida, daca are
+  mai mult de 30 de secunde returneaza false altfel true.
 #
 ![alt text](https://github.com/iulian-b97/generate-random-pass/blob/main/_screens/s3.jpg)
 # 
